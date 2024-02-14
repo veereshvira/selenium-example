@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results ignored="0" total="1" passed="1" failed="0" skipped="0">
+  <reporter-output>
+  </reporter-output>
+  <suite started-at="2023-01-05T12:58:50 IST" name="Default suite" finished-at="2023-01-05T12:59:01 IST" duration-ms="11310">
+    <groups>
+    </groups>
+    <test started-at="2023-01-05T12:58:50 IST" name="Default test" finished-at="2023-01-05T12:59:01 IST" duration-ms="11310">
+      <class name="test.MMT1">
+        <test-method is-config="true" signature="openBrowser()[pri:0, instance:test.MMT1@506ae4d4]" started-at="2023-01-05T12:58:50 IST" name="openBrowser" finished-at="2023-01-05T12:58:53 IST" duration-ms="3545" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- openBrowser -->
+        <test-method signature="tripDetails()[pri:0, instance:test.MMT1@506ae4d4]" started-at="2023-01-05T12:58:53 IST" name="tripDetails" finished-at="2023-01-05T12:59:01 IST" duration-ms="7503" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tripDetails -->
+        <test-method is-config="true" signature="closeBrowser()[pri:0, instance:test.MMT1@506ae4d4]" started-at="2023-01-05T12:59:01 IST" name="closeBrowser" finished-at="2023-01-05T12:59:01 IST" duration-ms="171" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- closeBrowser -->
+      </class> <!-- test.MMT1 -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>
